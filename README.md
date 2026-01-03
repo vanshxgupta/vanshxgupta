@@ -27,7 +27,6 @@
 * 🌱 Deepening knowledge in **Next.js, TypeScript, and Generative AI**.
 * 🤝 Open to collaborating on **MERN stack** and **Open Source** projects.
 * 💬 **Ask me about:** React, API design, MongoDB, and System Architecture.
-* ⚡ **Fun fact:** I can debug code for hours, but I can't decide what to watch on Netflix.
 
 <br>
 
