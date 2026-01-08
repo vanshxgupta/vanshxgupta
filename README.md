@@ -1,12 +1,6 @@
 <h1 align="center">
   Hi there, I'm Vansh Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-
-<h3 align="center">
-  A passionate 💡 **Full Stack Developer** from India 🇮🇳<br>
-  Specializing in the **MERN Stack** and **Next.js**.
-</h3>
-
 <br>
 
 <p align="center">
