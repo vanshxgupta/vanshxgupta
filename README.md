@@ -20,8 +20,6 @@
 * 💻 Focused on building robust full-stack applications and exploring new web technologies.
 * 🌱 Deepening knowledge in **Next.js, TypeScript, and Generative AI**.
 * 🤝 Open to collaborating on **MERN stack** and **Open Source** projects.
-* 💬 **Ask me about:** React, API design, MongoDB, and System Architecture.
-
 <br>
 
 ## 🚀 My Core Tech Stack
