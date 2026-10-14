@@ -30,7 +30,7 @@
 - 🎓 B.Tech in Electrical Engineering at **MANIT Bhopal** (2023 – 2027)
 - 💻 I build **robust, production-minded full-stack applications** — real-time systems, concurrency handling, and clean API design.
 - ☁️ Currently going deep into **DevOps** — Docker, Docker Compose, CI/CD, AWS, and system design at scale.
-- 🤖 Actively exploring **Generative AI** — LLM APIs, agentic workflows, LangChain, and voice-driven AI products.
+- 🤖 Building **LLM-powered applications** and **retrieval-based AI systems**: RAG pipelines, embeddings, vector search, and structured LLM outputs with LangChain, LlamaIndex, and Groq.
 - 📚 I treat learning as a habit — **regularly picking up new technologies** to keep expanding what I can build.
 - 🧩 Solved **1,600+ DSA problems**; **Knight (1914)** on LeetCode.
 - 🤝 Open to collaborating on **MERN / Next.js**, **DevOps**, and **Open Source** projects.
@@ -48,7 +48,7 @@
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **AI / Data** | ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=FE5000) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Vapi](https://img.shields.io/badge/Vapi-5B17E3?style=flat-square&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **AI / Data** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=FE5000) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square) ![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-0F62FE?style=flat-square&logo=ibm&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square) ![Vapi](https://img.shields.io/badge/Vapi-5B17E3?style=flat-square&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0A66C2?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-238636?style=flat-square) ![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=flat-square) ![Vector Search](https://img.shields.io/badge/Vector_Search-FF6446?style=flat-square) ![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-1C3C3C?style=flat-square) ![Function Calling](https://img.shields.io/badge/Function_Calling-5B17E3?style=flat-square) ![AI App Development](https://img.shields.io/badge/AI_App_Development-0F62FE?style=flat-square) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
@@ -151,7 +151,7 @@
 | **Certification** | **Issuer** | **Issued** | **Focus** |
 | :--- | :---: | :---: | :--- |
 | 🔍 **[Build RAG Applications: Get Started](https://www.coursera.org/account/accomplishments/verify/GHUAY00OVTNY)** | IBM | Oct 2026 | RAG, LlamaIndex, LLM Applications |
-| 🧠 **<COURSE NAME>** | IBM | Oct 2026 | LangChain, Prompt Engineering, Flask, LLMs, Tool Calling |
+| 🧠 **[Develop Generative AI Applications: Get Started](https://www.coursera.org/account/accomplishments/records/GE557252XY30)** | IBM | Oct 2026 | LangChain, Prompt Engineering, Flask, LLMs, Tool Calling |
 | 🐳 **Docker Training Course** | KodeKloud | Sep 2026 | Docker, DevOps, Containerization |
 | 🏗️ **System Design Course — With Labs** | KodeKloud | Sep 2026 | High-Level Design, Scalability, Docker |
 | 🤖 **Agentic AI Certified Foundations Associate** | Oracle | Jul 2026 | Agentic AI Development, LangChain |
@@ -159,13 +159,15 @@
 
 </div>
 
+---
+
 ## 🌱 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_RAG-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -184,6 +186,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshxgupta&theme=dracula&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
+
 ---
 
 <h3 align="center">🤝 Let's Connect</h3>
