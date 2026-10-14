@@ -150,14 +150,14 @@
 
 | **Certification** | **Issuer** | **Issued** | **Focus** |
 | :--- | :---: | :---: | :--- |
+| 🔍 **[Build RAG Applications: Get Started](https://www.coursera.org/account/accomplishments/verify/GHUAY00OVTNY)** | IBM | Oct 2026 | RAG, LlamaIndex, LLM Applications |
+| 🧠 **<COURSE NAME>** | IBM | Oct 2026 | LangChain, Prompt Engineering, Flask, LLMs, Tool Calling |
 | 🐳 **Docker Training Course** | KodeKloud | Sep 2026 | Docker, DevOps, Containerization |
 | 🏗️ **System Design Course — With Labs** | KodeKloud | Sep 2026 | High-Level Design, Scalability, Docker |
 | 🤖 **Agentic AI Certified Foundations Associate** | Oracle | Jul 2026 | Agentic AI Development, LangChain |
 | 🗄️ **SQL (Advanced) Certificate** | HackerRank | Feb 2026 | DBMS, Advanced SQL |
 
 </div>
-
----
 
 ## 🌱 Currently Learning
 
